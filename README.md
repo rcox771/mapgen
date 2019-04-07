@@ -1,5 +1,6 @@
 # mapgen
 
+![map](misc/example.png)
 
 ## QuickStart
 
@@ -8,11 +9,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+or check out the [notebook](examples.ipynb)
 
 ## Todo
 
  - erosion
-    - hydraulic
+    - hydraulic (WIP)
     - thermal
  - rivers
  - city placement
